@@ -30,7 +30,7 @@ cargo build --release
 Replace <dir1> and <dir2> with the paths of the directories you want to synchronize.
 ```
 
-## Go Version
+### Go Version
 Located in the go/ directory. To use the Go version of Dir-Sync, first compile the program using go build, and then run the compiled binary:
 
 ```bash
